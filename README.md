@@ -2,7 +2,7 @@
 
 Using Locust Docs to Run Getting Started with Provided Documentation
 
-#How to run
+## How to run
 
 1. Clone this repository
 2. Install Chocolatey via powershell (as administrator): [Chocolatey Software | Installing Chocolatey](https://chocolatey.org/install) 
