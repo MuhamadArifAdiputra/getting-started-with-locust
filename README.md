@@ -27,10 +27,15 @@ pip3 install locust
 
 6. Open locust's web interface and run the load test
 
+
+```
 Example value
 Number of users: 1
 Spawn Rate: 1
 Host: Select your own webserver
+```
+
+
 
 
 
